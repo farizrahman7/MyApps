@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TUGAS_UTS_AKB_IF8_10117275.iml" filepath="$PROJECT_DIR$/TUGAS_UTS_AKB_IF8_10117275.iml" group="TUGAS_UTS_AKB_IF8_10117275" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TUGAS_UTS_AKB_IF8_10117275/app" />
+    </modules>
+  </component>
+</project>
